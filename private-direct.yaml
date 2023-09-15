@@ -1,4 +1,4 @@
 payload:
   # 自用直连列表。
-  - DOMAIN-SUFFIX,mjtd.com
   - DOMAIN-KEYWORD,mjtd
+  - DOMAIN-SUFFIX,mjtd.com
