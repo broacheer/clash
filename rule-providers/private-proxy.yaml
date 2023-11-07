@@ -1,4 +1,5 @@
 payload:
   # 自用代理列表。
   - DOMAIN-KEYWORD,porn
-
+  - DOMAIN-KEYWORD,ldqk
+  - DOMAIN-KEYWORD,masuit
