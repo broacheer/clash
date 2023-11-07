@@ -2,4 +2,6 @@ payload:
   # 自用代理列表。
   - DOMAIN-KEYWORD,porn
   - DOMAIN-KEYWORD,ldqk
+  - DOMAIN-SUFFIX,ldqk.xyz
   - DOMAIN-KEYWORD,masuit
+  - DOMAIN-SUFFIX,masuit.org
