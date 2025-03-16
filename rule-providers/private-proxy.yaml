@@ -7,3 +7,5 @@ payload:
   - DOMAIN-SUFFIX,masuit.org
   - DOMAIN-KEYWORD,youtube
   - PROCESS-NAME,椰果视频下载器.exe
+  - PROCESS-NAME,iTubeGo Downloader.exe
+  - PROCESS-NAME,itubegow.exe
