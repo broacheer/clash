@@ -17,3 +17,4 @@ payload:
   - PROCESS-NAME,YeguoDownloader.exe
   - PROCESS-NAME,HDVideoConverterFactoryPro.exe
   - PROCESS-NAME,zlibrary-portable.exe
+  - PROCESS-NAME,Z-Library.exe
