@@ -22,3 +22,4 @@ payload:
   - PROCESS-NAME,zlibrary-portable.exe
   - PROCESS-NAME,Z-Library.exe
   - DOMAIN-SUFFIX,workbuddy.ai
+  - PROCESS-NAME,Trae.exe
